@@ -10,7 +10,7 @@
 
 ## Arquitectura del proyecto
 
-![Diagrama de arquitectura](img/diagrama.png)
+![Diagrama de arquitectura](img/diagrama.jpeg)
 
 ---
 
