@@ -4,7 +4,7 @@
 
 - **Alumna:** Lucía Rodríguez
 - **Región:** `us-east-1` (N. Virginia)
-- **Vídeo de demostración:** `enlace video`
+- **Vídeo de demostración:** `(https://youtu.be/-2dKSIRPt3w?is=3CnNnBRfdGbuoB69)`
 
 ---
 
